@@ -1,0 +1,42 @@
+{
+  "name": "pop-art-theme",
+  "displayName": "Pop Art Color Themes",
+  "description": "High-impact, graphic dark themes for VS Code inspired by Andy Warhol, Roy Lichtenstein, and Keith Haring.",
+  "version": "0.1.0",
+  "publisher": "vhpenas",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "pop art",
+    "andy warhol",
+    "roy lichtenstein",
+    "keith haring",
+    "comic",
+    "vibrant",
+    "neon",
+    "dark theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pop Art - Warhol Dark (Vinyl Pop)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pop-art-warhol.json"
+      },
+      {
+        "label": "Pop Art - Lichtenstein (Comic Primaries)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pop-art-lichtenstein.json"
+      },
+      {
+        "label": "Pop Art - Keith Haring (Electric 80s)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pop-art-haring.json"
+      }
+    ]
+  }
+}
