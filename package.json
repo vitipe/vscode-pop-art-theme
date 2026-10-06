@@ -4,6 +4,7 @@
   "description": "High-impact, graphic dark themes for VS Code inspired by Andy Warhol, Roy Lichtenstein, and Keith Haring.",
   "version": "0.1.0",
   "publisher": "vhpenas",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
   },
